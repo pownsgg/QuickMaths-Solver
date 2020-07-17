@@ -29,6 +29,7 @@ public class AutoMathListener {
 		}
 	}
 
+	//Totally did not skid this from StackOverflow
 	private double eval(final String str) {
 		return new Object() {
 			int pos = -1, ch;
